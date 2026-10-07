@@ -6,7 +6,7 @@
 
 The Excel files are not public. Each folder presents one application: features, GIF and video demo, and technical choices.
 
-## DIGESC: business management
+## DIGESC: business management (2018–2019)
 
 ![DIGESC demo](digesc-gestion-commerciale/assets/digesc-demo.gif)
 
@@ -21,6 +21,19 @@ Purchases, sales, multi-warehouse stock, cash register, treasury and dashboards 
 About 6,000 lines of VBA, 17 UserForms, 7 modules.
 
 👉 [Full DIGESC page](digesc-gestion-commerciale/README.md) · ▶ [Video demo](https://www.youtube.com/watch?v=vkNjocGOuQI) (in French)
+
+## Omboo: investor and treasury management (2020)
+
+![Omboo demo](omboo-gestion-investisseurs/assets/omboo-demo.gif)
+
+Investments, payment schedules, treasury by cashier and payment method, and communication with investors.
+
+- Investment ledger with automatic payment schedule
+- Payment and miscellaneous operations management
+- 15 analysis reports: daily treasury, receipts and expenses by period, history
+- E-mail campaigns and bulk SMS
+
+👉 [Full Omboo page](omboo-gestion-investisseurs/README.md)
 
 ## Coming next
 

@@ -6,7 +6,7 @@
 
 Les fichiers Excel ne sont pas publics. Chaque dossier présente une application : fonctionnalités, démonstration en GIF et en vidéo, et choix techniques.
 
-## DIGESC : gestion commerciale
+## DIGESC : gestion commerciale (2018-2019)
 
 ![Démo de DIGESC](digesc-gestion-commerciale/assets/digesc-demo.gif)
 
@@ -21,6 +21,19 @@ Achats, ventes, stock sur plusieurs dépôts, caisse, trésorerie et tableaux de
 Environ 6 000 lignes de VBA, 17 formulaires, 7 modules.
 
 👉 [Fiche complète de DIGESC](digesc-gestion-commerciale/README.fr.md) · ▶ [Démonstration vidéo](https://www.youtube.com/watch?v=vkNjocGOuQI)
+
+## Omboo : gestion d'investisseurs et de trésorerie (2020)
+
+![Démo d'Omboo](omboo-gestion-investisseurs/assets/omboo-demo.gif)
+
+Investissements, échéances de règlement, trésorerie par caissier et par moyen de paiement, et communication avec les investisseurs.
+
+- Journal des investissements avec calcul automatique des échéances
+- Gestion des règlements et des opérations diverses
+- 15 états d'analyse : trésorerie journalière, recettes et dépenses par période, historiques
+- Campagnes d'e-mailing et SMS groupés
+
+👉 [Fiche complète d'Omboo](omboo-gestion-investisseurs/README.fr.md)
 
 ## Prochaines applications
 

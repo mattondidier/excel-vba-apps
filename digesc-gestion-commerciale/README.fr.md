@@ -4,6 +4,8 @@
 
 **De la facture au tableau de bord : achats, ventes, stock, caisse et trésorerie d'une PME, dans une seule application Excel pilotée par VBA.**
 
+Développé en 2018-2019, dans le cadre de mon master technologique.
+
 ![Démo de DIGESC](assets/digesc-demo.gif)
 
 ▶ **Démonstration complète :** [voir la vidéo sur YouTube](https://www.youtube.com/watch?v=vkNjocGOuQI)

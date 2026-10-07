@@ -4,6 +4,8 @@
 
 **From invoice to dashboard: purchases, sales, stock, cash register and treasury of a small business, in a single Excel application driven by VBA.**
 
+Developed in 2018–2019 as part of my master's degree in technology.
+
 ![DIGESC demo](assets/digesc-demo.gif)
 
 ▶ **Full demo:** [watch on YouTube](https://www.youtube.com/watch?v=vkNjocGOuQI) (in French)

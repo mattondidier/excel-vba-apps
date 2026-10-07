@@ -73,4 +73,4 @@ DIGESC is being rebuilt as a web application with Django.
 
 ## Author
 
-**Didier Matton** | Financial Engineer | Full-Stack Data Scientist
+**Didier Matton** | Financial Engineer | Full-Stack Data Scientist | Python, Django, VBA, BI & LLMs | Quantitative Finance

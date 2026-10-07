@@ -35,6 +35,19 @@ Investments, payment schedules, treasury by cashier and payment method, and comm
 
 👉 [Full Omboo page](omboo-gestion-investisseurs/README.md)
 
+## ELITE: training centre management (2020–2021)
+
+![ELITE demo](elite-gestion-formations/assets/elite-demo.gif)
+
+Courses, enrolments, trainer payments and treasury of a training centre, steered from a 20-indicator dashboard.
+
+- Certified courses and seminars, sessions, enrolments and attendance
+- Payment, receivables and cash tracking
+- Student assessment and progress reports
+- 15 analysis reports, PDF and Excel export
+
+👉 [Full ELITE page](elite-gestion-formations/README.md) · ▶ [Video demo](https://www.youtube.com/watch?v=ftuCQo1PRnY) (in French)
+
 ## Coming next
 
 | Application | Domain |

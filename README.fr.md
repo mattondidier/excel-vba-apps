@@ -35,6 +35,19 @@ Investissements, échéances de règlement, trésorerie par caissier et par moye
 
 👉 [Fiche complète d'Omboo](omboo-gestion-investisseurs/README.fr.md)
 
+## ELITE : gestion d'un centre de formation (2020-2021)
+
+![Démo d'ELITE](elite-gestion-formations/assets/elite-demo.gif)
+
+Formations, inscriptions, paiements des formateurs et trésorerie d'un centre de formation, pilotés depuis un tableau de bord de 20 indicateurs.
+
+- Formations certifiantes et séminaires, sessions, inscriptions et présences
+- Suivi des paiements, des créances et de la caisse
+- Évaluation des étudiants et rapports de progression
+- 15 états d'analyse, export PDF et Excel
+
+👉 [Fiche complète d'ELITE](elite-gestion-formations/README.fr.md) · ▶ [Démonstration vidéo](https://www.youtube.com/watch?v=ftuCQo1PRnY)
+
 ## Prochaines applications
 
 | Application | Domaine |
